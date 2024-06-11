@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "729479701539",
+    "firebase_url": "https://watchaholicweb-default-rtdb.firebaseio.com",
+    "project_id": "watchaholicweb",
+    "storage_bucket": "watchaholicweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729479701539:android:cb3f22072568f8a4423d96",
+        "android_client_info": {
+          "package_name": "com.example.votenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729479701539-7nvu8cen8bh58mi86n2j92uvhpu8d1k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_COQmjI74u2XfMFI0XaRDvHLHUBAIG-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729479701539-7nvu8cen8bh58mi86n2j92uvhpu8d1k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729479701539:android:5287d51ab01e484e423d96",
+        "android_client_info": {
+          "package_name": "com.watch.usershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729479701539-rqp9f94idv05oi3qhi1mnb8omls669er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.watch.usershop",
+            "certificate_hash": "be98f164a722ec236f143668f9960e94843b8c89"
+          }
+        },
+        {
+          "client_id": "729479701539-7nvu8cen8bh58mi86n2j92uvhpu8d1k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_COQmjI74u2XfMFI0XaRDvHLHUBAIG-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729479701539-7nvu8cen8bh58mi86n2j92uvhpu8d1k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
